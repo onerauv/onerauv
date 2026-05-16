@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- ========================================= -->
+<!--            GITHUB PROFILE README          -->
+<!-- ========================================= -->
 
-<!--
-**onerauv/onerauv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, I'm Saurav</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+🚀 Future DevOps Engineer | Hacker Mindset | Learning & Building Every Day
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=DevOps+Learner+%F0%9F%9A%80;Linux+%7C+Docker+%7C+Kubernetes;Python+%7C+JavaScript+%7C+Bash;Future+Cloud+Engineer;Always+Learning+New+Things" />
+</p>
+
+---
+
+# 🧠 About Me
+
+```yaml
+Name: Saurav
+Age: 19
+Username: onerav
+Focus: DevOps Engineering
+Status: Starting My DevOps Journey 🚀
+Mindset: Learn → Build → Break → Fix → Repeat
