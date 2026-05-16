@@ -2,10 +2,10 @@
 <!--            GITHUB PROFILE README          -->
 <!-- ========================================= -->
 
-<h1 align="center">Hey 👋, I'm Saurav</h1>
+<h1 align="center">Hey, I'm Saurav</h1>
 
 <h3 align="center">
-🚀 Future DevOps Engineer | Hacker Mindset | Learning & Building Every Day
+🚀 Future DevOps Engineer | Learning & Building Every Day
 </h3>
 
 <p align="center">
@@ -23,3 +23,6 @@ Username: onerav
 Focus: DevOps Engineering
 Status: Starting My DevOps Journey 🚀
 Mindset: Learn → Build → Break → Fix → Repeat
+
+```
+<p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/> </p>
