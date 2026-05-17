@@ -15,3 +15,5 @@ Username: onerauv
 Focus: DevOps Engineering
 Status: Starting My DevOps Journey 🚀
 Mindset: Learn → Build → Break → Fix → Repeat
+```
+![random](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
